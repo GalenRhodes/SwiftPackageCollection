@@ -1,11 +1,11 @@
 {
   "name": "Galen's Collection",
   "packages": [
-    {
-      "url": "https://github.com/GalenRhodes/Rubicon.git",
-      "url": "https://github.com/GalenRhodes/RedBlackTree.git",
-      "url": "https://github.com/GalenRhodes/Chadakoin.git",
-      "url": "https://github.com/GalenRhodes/StringIntern.git"
-    }
+    { "url": "https://github.com/GalenRhodes/Rubicon.git" },
+    { "url": "https://github.com/GalenRhodes/RedBlackTree.git" },
+    { "url": "https://github.com/GalenRhodes/Chadakoin.git" },
+    { "url": "https://github.com/GalenRhodes/StringIntern.git" },
+    { "url": "https://github.com/GalenRhodes/PGDocFixer.git" },
+    { "url": "https://github.com/GalenRhodes/ReadWriteLock.git" }
   ]
 }
